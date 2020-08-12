@@ -1,0 +1,20 @@
+.list{
+    color: rgb(0, 0, 0);
+    width: 99%;
+    font-size: larger;
+    height: 45px;
+    border-radius: 5px;
+    text-indent: 1em;
+}
+hr{
+    width: 100%;
+}
+input{
+    height: 15px;
+    width: 15px;
+}
+.colortext label{
+    color: #292929;
+    text-decoration: line-through;
+    opacity: 0.8;
+}
