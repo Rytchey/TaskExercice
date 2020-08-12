@@ -34,12 +34,14 @@ body {
   outline: none;
 }
 .alignCenter{
-  position: sticky;
+  position: absolute;
   text-align: center;
-   bottom: 10px;
+  bottom: 10px;
+  margin-left: 135px;
 }
 .alignCenter button{
   height: 31px;
+  margin-right: 10px;
 }
 .relative{
   position: relative;
